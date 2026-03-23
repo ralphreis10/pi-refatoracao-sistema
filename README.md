@@ -25,6 +25,6 @@ git init
 git add .
 git commit -m "Projeto refatorado com SOLID e CRUD completo"
 git branch -M main
-git remote add origin https://github.com/SEUUSUARIO/pi-professor-killer-refatorado.git
+git remote add origin
 git push -u origin main
 ```
