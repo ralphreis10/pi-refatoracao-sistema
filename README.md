@@ -1,4 +1,4 @@
-# PI Professor-Killer - Sistema de Personagens Refatorado
+Sistema de Personagens Refatorado
 
 Projeto pronto para entrega no NetBeans, com separação em camadas, aplicação de SOLID, CRUD completo e documentação para o relatório.
 
@@ -18,18 +18,6 @@ Projeto pronto para entrega no NetBeans, com separação em camadas, aplicação
 - Uso de interface no repository para favorecer DIP
 - Views desacopladas do banco
 - Tratamento de mensagens de erro mais amigável
-
-## Como executar
-1. Abra a pasta `PI_Professor_Killer` no NetBeans.
-2. Ajuste usuário e senha em `src/dao/Conexao.java`, se necessário.
-3. Execute o script `sql/script_banco.sql` no MySQL.
-4. Rode `view.MainMenuVIEW`.
-
-## Teste simples
-Também é possível executar `testes.MainTeste` para validar a listagem.
-
-## Sugestão de repositório GitHub
-`pi-professor-killer-refatorado`
 
 ## Comandos Git
 ```bash
