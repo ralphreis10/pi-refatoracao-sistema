@@ -1,0 +1,4 @@
+Coloque aqui 3 prints antes de entregar:
+1. Tela do repositório criado no GitHub.
+2. Lista de arquivos/pastas do projeto.
+3. Último commit enviado.
